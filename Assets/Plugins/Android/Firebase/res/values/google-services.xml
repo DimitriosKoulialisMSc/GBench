@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://gbenchcasesobservations.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">973505897582</string>
+  <string name="google_storage_bucket" translatable="false">gbenchcasesobservations.appspot.com</string>
+  <string name="project_id" translatable="false">gbenchcasesobservations</string>
+  <string name="google_api_key" translatable="false">AIzaSyAYRI34W6F4IePD37_v18ZAJBFNEqKKQ3Y</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYRI34W6F4IePD37_v18ZAJBFNEqKKQ3Y</string>
+  <string name="google_app_id" translatable="false">1:973505897582:android:6ce3f96a5fd2b482b5f27f</string>
+  <string name="default_web_client_id" translatable="false">973505897582-kd3cg4kufl43euv0tdimeaeqgc17visd.apps.googleusercontent.com</string>
+</resources>

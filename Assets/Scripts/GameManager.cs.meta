@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3176458587c98e541b5c327dd218bfb1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sphere: {fileID: 7587119307329679785, guid: c858eed2f48c56d4d996a1f036db0915,
+      type: 3}
+  - Cube: {fileID: 7553256862997877820, guid: e7c9b88f27996894ba5356431dabe472, type: 3}
+  - Cylinder: {fileID: 1489052574568428390, guid: d9c0252eee0cedd418a2ade0713c9d02,
+      type: 3}
+  - Capsule: {fileID: 7758900111221522672, guid: 9315b57b49f70eb43beb5e67f0241871,
+      type: 3}
+  - trail: {instanceID: 0}
+  - SpatialMappingWireframe: {fileID: 15303, guid: 0000000000000000f000000000000000,
+      type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

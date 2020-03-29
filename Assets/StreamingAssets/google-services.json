@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973505897582",
+    "firebase_url": "https://gbenchcasesobservations.firebaseio.com",
+    "project_id": "gbenchcasesobservations",
+    "storage_bucket": "gbenchcasesobservations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973505897582:android:6ce3f96a5fd2b482b5f27f",
+        "android_client_info": {
+          "package_name": "com.StudentDissertationProject.GBench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973505897582-kd3cg4kufl43euv0tdimeaeqgc17visd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYRI34W6F4IePD37_v18ZAJBFNEqKKQ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973505897582-kd3cg4kufl43euv0tdimeaeqgc17visd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
