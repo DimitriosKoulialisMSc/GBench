@@ -1,0 +1,263 @@
+{
+  "UserMAC: " : {
+    "MacAdress" : "38786202E682",
+    "dateTestCompleted" : "03/23/2020 13:38:29",
+    "deviceCollectiveInfo" : "Model:Sony E5303 Name: Kotori Type: Handheld",
+    "score" : "3383",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 000822228846" : {
+    "MacAdress" : "000822228846",
+    "dateTestCompleted" : "03/24/2020 13:23:08",
+    "deviceCollectiveInfo" : "Model:UMIDIGI A5_Pro Name: A5_Pro Type: Handheld",
+    "score" : "3816",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 008701C2C79C" : {
+    "MacAdress" : "008701C2C79C",
+    "dateTestCompleted" : "03/22/2020 10:08:08",
+    "deviceCollectiveInfo" : "Model:samsung SM-J510FN Name: Galaxy J5 (2016) Type: Handheld",
+    "score" : "3311",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 00B5D02EAF5D" : {
+    "MacAdress" : "00B5D02EAF5D",
+    "dateTestCompleted" : "03/22/2020 20:02:24",
+    "deviceCollectiveInfo" : "Model:samsung SM-J330FN Name: Galaxy J3(2017) Type: Handheld",
+    "score" : "3397",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 04B1672885E2" : {
+    "MacAdress" : "04B1672885E2",
+    "dateTestCompleted" : "03/15/2020 20:58:26",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi 4X Name: Redmi Type: Handheld",
+    "score" : "3784",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 04B167B4327B" : {
+    "MacAdress" : "04B167B4327B",
+    "dateTestCompleted" : "03/21/2020 21:31:27",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi 4X Name: Redmi Type: Handheld",
+    "score" : "3907",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 08C5E17704E4" : {
+    "MacAdress" : "08C5E17704E4",
+    "dateTestCompleted" : "03/19/2020 12:22:23",
+    "deviceCollectiveInfo" : "Model:samsung SM-G950F Name: Galaxy S8 Type: Handheld",
+    "score" : "3868",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 1801F15C23E6" : {
+    "MacAdress" : "1801F15C23E6",
+    "dateTestCompleted" : "03/24/2020 15:17:18",
+    "deviceCollectiveInfo" : "Model:Xiaomi MI 8 Lite Name: Mi Phone Type: Handheld",
+    "score" : "3874",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 3412F95233DF" : {
+    "MacAdress" : "3412F95233DF",
+    "dateTestCompleted" : "03/21/2020 23:15:03",
+    "deviceCollectiveInfo" : "Model:HUAWEI CLT-L09 Name: HUAWEI P20 Pro Type: Handheld",
+    "score" : "3893",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 3612F9F8E15C" : {
+    "MacAdress" : "3612F9F8E15C",
+    "dateTestCompleted" : "03/17/2020 13:08:41",
+    "deviceCollectiveInfo" : "Model:HUAWEI ELE-L09 Name: HUAWEI P30 Type: Handheld",
+    "score" : "3900",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 38786202E682" : {
+    "MacAdress" : "38786202E682",
+    "dateTestCompleted" : "03/11/2020 18:35:18",
+    "deviceCollectiveInfo" : "Model:Sony G8341 Name: Glassmade's Type: Handheld",
+    "score" : "3830",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 3878624BA12C" : {
+    "MacAdress" : "3878624BA12C",
+    "dateTestCompleted" : "03/21/2020 18:40:36",
+    "deviceCollectiveInfo" : "Model:Sony H3113 Name: Xperia XA2 Type: Handheld",
+    "score" : "3933",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 3878627A69F9" : {
+    "MacAdress" : "3878627A69F9",
+    "dateTestCompleted" : "03/12/2020 15:16:32",
+    "deviceCollectiveInfo" : "Model:Sony G8441 Name: Xperia XZ1 Compact Type: Handheld",
+    "score" : "3902",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 38E60A73A767" : {
+    "MacAdress" : "38E60A73A767",
+    "dateTestCompleted" : "03/16/2020 22:25:22",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi Note 4 Name: Billy's Redmi Type: Handheld",
+    "score" : "4061",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 3A84C800D498" : {
+    "MacAdress" : "3A84C800D498",
+    "dateTestCompleted" : "03/17/2020 14:23:54",
+    "deviceCollectiveInfo" : "Model:Sony E6833 Name: Xperia Z5 Premium Dual Type: Handheld",
+    "score" : "3896",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 4491609BD04A" : {
+    "MacAdress" : "4491609BD04A",
+    "dateTestCompleted" : "03/12/2020 08:34:09",
+    "deviceCollectiveInfo" : "Model:samsung SM-G960U1 Name: Galaxy S9 Type: Handheld",
+    "score" : "3833",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 482CA0664FE2" : {
+    "MacAdress" : "482CA0664FE2",
+    "dateTestCompleted" : "03/24/2020 15:09:35",
+    "deviceCollectiveInfo" : "Model:Xiaomi Mi A2 Name: Mi A2 Type: Handheld",
+    "score" : "3910",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 54B1218FE73E" : {
+    "MacAdress" : "54B1218FE73E",
+    "dateTestCompleted" : "03/21/2020 17:49:05",
+    "deviceCollectiveInfo" : "Model:HUAWEI STF-L09 Name: Glassmade's Type: Handheld",
+    "score" : "3821",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 685ACFB15DA0" : {
+    "MacAdress" : "685ACFB15DA0",
+    "dateTestCompleted" : "03/22/2020 10:43:33",
+    "deviceCollectiveInfo" : "Model:samsung SM-A520F Name: Galaxy A5 (2017) Type: Handheld",
+    "score" : "3861",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 703A51016F0E" : {
+    "MacAdress" : "703A51016F0E",
+    "dateTestCompleted" : "03/22/2020 03:59:09",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi 6 Name: Redmi Type: Handheld",
+    "score" : "3886",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 8035C178452A" : {
+    "MacAdress" : "8035C178452A",
+    "dateTestCompleted" : "03/22/2020 14:17:13",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi Note 6 Pro Name: Redmi Type: Handheld",
+    "score" : "3866",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: 94652DD82BA6" : {
+    "MacAdress" : "94652DD82BA6",
+    "dateTestCompleted" : "03/21/2020 19:43:05",
+    "deviceCollectiveInfo" : "Model:OnePlus ONEPLUS A5010 Name: OnePlus 5T Type: Handheld",
+    "score" : "3890",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: A2C9A0DBDF85" : {
+    "MacAdress" : "A2C9A0DBDF85",
+    "dateTestCompleted" : "03/16/2020 21:19:46",
+    "deviceCollectiveInfo" : "Model:samsung SM-G950F Name: Galaxy S8 Type: Handheld",
+    "score" : "3908",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: AC5775D7D7D5" : {
+    "MacAdress" : "AC5775D7D7D5",
+    "dateTestCompleted" : "03/24/2020 22:19:32",
+    "deviceCollectiveInfo" : "Model:HMD Global Nokia 5.1 Plus Name: Nokia 5.1 Plus Type: Handheld",
+    "score" : "3820",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: D09C7AD1980A" : {
+    "MacAdress" : "D09C7AD1980A",
+    "dateTestCompleted" : "03/24/2020 15:52:38",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi Note 7 Name: Redmi Type: Handheld",
+    "score" : "3873",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: D6389CA8C4ED" : {
+    "MacAdress" : "D6389CA8C4ED",
+    "dateTestCompleted" : "03/15/2020 15:22:01",
+    "deviceCollectiveInfo" : "Model:Sony G3121 Name: Xperia XA1 Type: Handheld",
+    "score" : "3741",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: D863750CC10D" : {
+    "MacAdress" : "D863750CC10D",
+    "dateTestCompleted" : "03/15/2020 18:55:08",
+    "deviceCollectiveInfo" : "Model:Xiaomi Redmi Note 5A Prime Name: Redmi Type: Handheld",
+    "score" : "3792",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: E2A3ACAD7E77" : {
+    "MacAdress" : "E2A3ACAD7E77",
+    "dateTestCompleted" : "03/23/2020 09:44:04",
+    "deviceCollectiveInfo" : "Model:HUAWEI HUAWEI VNS-L21 Name: HUAWEI P9 lite Type: Handheld",
+    "score" : "3745",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  },
+  "UserMAC: E40EEEEB0289" : {
+    "MacAdress" : "E40EEEEB0289",
+    "dateTestCompleted" : "03/22/2020 08:03:34",
+    "deviceCollectiveInfo" : "Model:HUAWEI COR-L29 Name: Honor Play Type: Handheld",
+    "score" : "3878",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
+  }
+}
