@@ -13,7 +13,7 @@ public class SceneManagemet : MonoBehaviour
     #region Private Variables
     private TrueAuditor auditor;
     private TrueAuditor checkResult;
-    private string databasePointer = "https://gbenchcasesobservations.firebaseio.com/";
+    private string databasePointer = "Hard Coded Information of the Database Was HERE! Deleted to protect the data!";
     private string jsonData;
     private DatabaseReference databaseReference;
     private bool grabMacAddress = true;
