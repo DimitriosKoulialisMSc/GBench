@@ -1,6 +1,7 @@
 ﻿Unique Key,Mac Address,Data Completed,Device Info,Score,Test A,Test B,Test C ,3D Mark : Slingshot Extreme,Average G-Bench,Average 3D Mark Slingshot Extreme
-UserMAC: AC5775D7D7D5,AC5775D7D7D5,03/24/2020 22:19:32,Model:HMD Global Nokia 5.1 Plus Name: Nokia 5.1 Plus Type: Handheld,3820,done,done,done,936,3813.068966,1439.655172
-UserMAC: 3412F95233DF,3412F95233DF,03/21/2020 23:15:03,Model:HUAWEI CLT-L09 Name: HUAWEI P20 Pro Type: Handheld,3893,done,done,done,1570,3814,1440
+UserMAC: AC5775D7D7D5,AC5775D7D7D5,03/24/2020 22:19:32,Model:HMD Global Nokia 5.1 Plus Name: Nokia 5.1 Plus Type: Handheld,3820,done,done,done,936,3816.333333,1444.1
+UserMAC: F20FEC4AEB20,F20FEC4AEB20,03/30/2020 09:25:25,Model:HUAWEI BKL-L09 Name: Honor View10 Type: Handheld,3911,done,done,done,1573,3817,1445
+UserMAC: 3412F95233DF,3412F95233DF,03/21/2020 23:15:03,Model:HUAWEI CLT-L09 Name: HUAWEI P20 Pro Type: Handheld,3893,done,done,done,1570,,
 UserMAC: E40EEEEB0289,E40EEEEB0289,03/22/2020 08:03:34,Model:HUAWEI COR-L29 Name: Honor Play Type: Handheld,3878,done,done,done,2724,,
 UserMAC: 3612F9F8E15C,3612F9F8E15C,03/17/2020 13:08:41,Model:HUAWEI ELE-L09 Name: HUAWEI P30 Type: Handheld,3900,done,done,done,4055,,
 UserMAC: E2A3ACAD7E77,E2A3ACAD7E77,03/23/2020 09:44:04,Model:HUAWEI HUAWEI VNS-L21 Name: HUAWEI P9 lite Type: Handheld,3745,done,done,done,387,,
@@ -9,7 +10,7 @@ UserMAC: 94652DD82BA6,94652DD82BA6,03/21/2020 19:43:05,Model:OnePlus ONEPLUS A50
 UserMAC: 685ACFB15DA0,685ACFB15DA0,03/22/2020 10:43:33,Model:samsung SM-A520F Name: Galaxy A5 (2017) Type: Handheld,3861,done,done,done,775,,
 UserMAC: 08C5E17704E4,08C5E17704E4,03/19/2020 12:22:23,Model:samsung SM-G950F Name: Galaxy S8 Type: Handheld,3868,done,done,done,2516,,
 UserMAC: A2C9A0DBDF85,A2C9A0DBDF85,03/16/2020 21:19:46,Model:samsung SM-G950F Name: Galaxy S8 Type: Handheld,3908,done,done,done,2516,,
-UserMAC: 4491609BD04A,4491609BD04A,12-3-20 8:34,Model:samsung SM-G960U1 Name: Galaxy S9 Type: Handheld,3833,done,done,done,3302,,
+UserMAC: 4491609BD04A,4491609BD04A,12-03-20 8:34,Model:samsung SM-G960U1 Name: Galaxy S9 Type: Handheld,3833,done,done,done,3302,,
 UserMAC: 00B5D02EAF5D,00B5D02EAF5D,03/22/2020 20:02:24,Model:samsung SM-J330FN Name: Galaxy J3(2017) Type: Handheld,3397,done,done,done,79,,
 UserMAC: 008701C2C79C,008701C2C79C,03/22/2020 10:08:08,Model:samsung SM-J510FN Name: Galaxy J5 (2016) Type: Handheld,3311,done,done,done,189,,
 UserMAC: 38786202E682,38786202E682,03/23/2020 13:38:29,Model:Sony E5303 Name: Kotori Type: Handheld,3383,done,done,done,321,,
@@ -28,6 +29,3 @@ UserMAC: 38E60A73A767,38E60A73A767,03/16/2020 22:25:22,Model:Xiaomi Redmi Note 4
 UserMAC: D863750CC10D,D863750CC10D,03/15/2020 18:55:08,Model:Xiaomi Redmi Note 5A Prime Name: Redmi Type: Handheld,3792,done,done,done,317,,
 UserMAC: 8035C178452A,8035C178452A,03/22/2020 14:17:13,Model:Xiaomi Redmi Note 6 Pro Name: Redmi Type: Handheld,3866,done,done,done,946,,
 UserMAC: D09C7AD1980A,D09C7AD1980A,03/24/2020 15:52:38,Model:Xiaomi Redmi Note 7 Name: Redmi Type: Handheld,3873,done,done,done,1342,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,

@@ -259,5 +259,14 @@
     "testA" : "done",
     "testB" : "done",
     "testC" : "done"
+  },
+  "UserMAC: F20FEC4AEB20" : {
+    "MacAdress" : "F20FEC4AEB20",
+    "dateTestCompleted" : "03/30/2020 09:25:25",
+    "deviceCollectiveInfo" : "Model:HUAWEI BKL-L09 Name: Honor View10 Type: Handheld",
+    "score" : "3911",
+    "testA" : "done",
+    "testB" : "done",
+    "testC" : "done"
   }
 }
